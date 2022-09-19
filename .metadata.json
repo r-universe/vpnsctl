@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "mixpoissonreg",
+    "oncran": true
+  }
+]
